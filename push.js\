@@ -1,0 +1,5 @@
+let arr = [];
+
+arr.push("manandrana push amle token");
+
+console.log(arr);
